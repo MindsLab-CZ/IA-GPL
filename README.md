@@ -1,3 +1,16 @@
+<!-- MINDSLAB-PAPER-METADATA:START -->
+# IA-GPL
+
+**Paper:** Instance-Aware Graph Prompt Learning
+
+**Authors:** Jiazheng Li, Jundong Li, Chuxu Zhang
+
+**Paper link:** [2411.17676](https://arxiv.org/abs/2411.17676)
+
+<!-- MINDSLAB-PAPER-METADATA:END -->
+
+---
+
 # IA-GPL
 
 This repository contains the pytorch code for '**Instance-Aware Graph Prompt Learning**' which is accepted in TMLR. We insert instance-aware prompts to improve performance and efficiency in downstream graph-related tasks.
